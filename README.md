@@ -29,4 +29,5 @@ Also feel free to contact me via email:
 - and more...
 
 
-
+## Github Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vyngard">
