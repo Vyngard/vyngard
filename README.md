@@ -6,7 +6,7 @@ I'm a software engineer who is trying to dive back into this field. I'm eager to
 
 [![Website Badge](https://img.shields.io/badge/-Personal%20Website-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://vyngard.com)](http://vyngard.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/ekhtiyari-pirooz/)
-[![Resume Badge](https://img.shields.io/badge/-Resume-black?style=flat-square&logo=About.me&logoColor=white)](https://vyngard.github.io/assets/resume/Pirooz_Ekhtiyari_Resume.pdf)
+[![Resume Badge](https://img.shields.io/badge/-Resume-purple?style=flat-square&logo=About.me&logoColor=white)](https://vyngard.github.io/assets/resume/Pirooz_Ekhtiyari_Resume.pdf)
 
 Also feel free to contact me via email:  
 
