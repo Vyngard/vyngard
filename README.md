@@ -27,7 +27,3 @@ Also feel free to contact me via email:
 - Playing video games (Retired Professional CSGO Player)
 - Marvel & DC Fan  
 - and more...
-
-
-## Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vyngard">
