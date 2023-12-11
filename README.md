@@ -27,3 +27,6 @@ Also, feel free to contact me via email:
 - Playing video games (retired professional CSGO player)
 - Marvel & DC Fan  
 - and more...
+
+## What is Vyngard?
+Nothing! It doesn't mean anything. It is just a nickname that I had during my CSGO professional career. Some of my friends still call me that. That's all :)
