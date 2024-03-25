@@ -14,10 +14,10 @@ Also, feel free to contact me via email:
 
 ## Interests
 - Backend Development
-- Data Structures and Algorithms
-- OOP
-- System Design
+- DevOps
+- SRE
 - Cloud Infrastructure
+- Cybersecurity
 
 
 ## Hobbies 🎮
