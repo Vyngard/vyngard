@@ -23,7 +23,6 @@ Also, feel free to contact me via email:
 ## Hobbies 🎮
 - Solving programming problems
 - Solving online riddles (like [notpron](http://notpron.com/notpron/))
-- Creating simple yet useful projects
 - Playing video games (retired professional CSGO player)
 - Marvel & DC Fan  
 - and more...
