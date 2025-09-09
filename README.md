@@ -2,7 +2,8 @@
 <h3 align="center">A software engineer from Canada</h3>
 
 ## About Me
-I'm a software engineer specialized in backend and DevOps. I'm eager to gain more experience by being in a team among professionals and working on different projects. Want to know more about me? Just check out these links:  
+I'm a **Software Engineer** specializing in **Back-End, DevOps, and Data Engineering**.  
+Experienced in **Java, Python**, and cloud solutions. Want to know more about me? Just check out these links:  
 
 [![Website Badge](https://img.shields.io/badge/-Personal%20Website-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://vyngard.com)](http://pirooz.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriharikapu/)](https://www.linkedin.com/in/ekhtiyari-pirooz/)
@@ -17,14 +18,12 @@ Also, feel free to contact me via email:
 - DevOps
 - SRE
 - Cloud Infrastructure
-- Cybersecurity
 
 
 ## Hobbies 🎮
 - Solving programming problems
 - Solving online riddles (like [notpron](http://notpron.com/notpron/))
 - Playing video games (retired professional CSGO player)
-- Marvel & DC Fan  
 - and more...
 
 ## What is Vyngard?
